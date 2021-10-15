@@ -33,3 +33,5 @@ Please Note:
 Example only tests one expression but the user can test multiple at once. 
 To test expressions for part two, they MUST come after “next” 
 
+Sample Input:
+a|b.c*
